@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm Labib. 
 
 ## About Me
-I'm a passionate fullstack web developer with expertise in both frontend and backend technologies. I am proficient in HTML, CSS, JavaScript, and frameworks like React, as well as Node.js and Express for backend development. 
-My journey in the world of web development has been both exciting and rewarding, and I'm always looking for new opportunities to learn and grow.## Interests
+I'm a passionate fullstack web developer with expertise in both frontend and backend technologies. I am proficient in HTML, CSS, JavaScript, and frameworks like React, as well as Node.js and Express for backend development. My journey in the world of web development has been both exciting and rewarding, and I'm always looking for new opportunities to learn and grow.
 
+## Interests
 - Exploring the latest advancements in web development technologies.
 -Building innovative projects that redefine web development norms and solve real-world problems with intuitive interfaces.
 -Engaging in meaningful discussions about the latest trends and challenges in web development, user experience design, and emerging technologies.
