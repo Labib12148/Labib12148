@@ -17,13 +17,10 @@ I'm currently diving deep into various aspects of web development. Whether it's 
 I'm open to collaborating on projects that align with my interests and expertise. If you're working on something exciting and think we could make a great team, don't hesitate to reach out! Let's brainstorm, code, and create something awesome together.
 
 ## How to Reach Me
-Feel free to email me with labib12148@gmail.com. Whether it's discussing potential collaborations, sharing interesting resources, or just saying hello, I'm always happy to connect with like-minded individuals.
-
-## Pronouns
-You can refer to me using he/him.
+Feel free to email me to labib12148@gmail.com. Whether it's discussing potential collaborations, sharing interesting resources, or just saying hello, I'm always happy to connect with like-minded individuals.
 
 ## Fun Fact
-In my free time, I enjoy play soccer. It's a great way for me to unwind and recharge after a day of coding and learning.
+In my free time, I enjoy playing football. It's a great way for me to unwind and recharge after a day of coding and learning.
 
 Thank you for stopping by! Feel free to explore my repositories and reach out if you have any questions or just want to chat.
 
